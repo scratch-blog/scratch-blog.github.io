@@ -1912,7 +1912,7 @@ main.container, main.content > .container {
   margin: 1.5em 0 0em; }
 
 .post h5 {
-  margin: 5em 0 -6.8em 0;
+  margin: 1em;
   font-family: 'Noto Serif';
   text-transform: uppercase;
   font-weight: normal;
